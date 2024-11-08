@@ -1,0 +1,6 @@
+﻿  Source.c
+c:\users\user\desktop\hw4\25\25\source.c(4): error C2143: 語法錯誤: 遺漏 ')' (在 '&' 之前)
+c:\users\user\desktop\hw4\25\25\source.c(4): error C2143: 語法錯誤: 遺漏 '{' (在 '&' 之前)
+c:\users\user\desktop\hw4\25\25\source.c(4): error C2059: 語法錯誤: '&'
+c:\users\user\desktop\hw4\25\25\source.c(4): error C2059: 語法錯誤: ')'
+c:\users\user\desktop\hw4\25\25\source.c(13): warning C4013: 're' 未定義; 假設 extern 傳回整數
